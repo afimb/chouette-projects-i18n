@@ -4,108 +4,152 @@
     "mode": "Tramway", 
     "submode": "unspecified",
     "pivot": "tram",
-    "pivot-submode": "unspecified"
+    "pivot-submode": "unspecified",
+    "default": "",
+    "reversible": true
   }, {
     "code": "",
     "mode": "Trolleybus",
     "submode": "unspecified",
     "pivot": "trolleyBus",
-    "pivot-submode": "unspecified"
+    "pivot-submode": "unspecified",
+    "default": "",
+    "reversible": true
   }, {
     "code": "",
     "mode": "Coach",
     "submode": "unspecified",
     "pivot": "coach",
-    "pivot-submode": "unspecified"
+    "pivot-submode": "unspecified",
+    "default": "",
+    "reversible": true
   }, {
     "code": "",
     "mode": "Bus",
     "submode": "unspecified",
     "pivot": "bus",
-    "pivot-submode": "unspecified"
+    "pivot-submode": "unspecified",
+    "default": "",
+    "reversible": true
   }, {
     "code": "",
     "mode": "Metro",
     "submode": "unspecified",
     "pivot": "metro",
-    "pivot-submode": "unspecified"
+    "pivot-submode": "unspecified",
+    "default": "",
+    "reversible": true
   }, {
     "code": "",
     "mode": "Val",
     "submode": "unspecified",
     "pivot": "rail",
-    "pivot-submode": "railShuttle"
+    "pivot-submode": "railShuttle",
+    "default": "",
+    "reversible": true
   }, {
     "code": "",
     "mode": "RapidTransit",
     "submode": "unspecified",
     "pivot": "rail",
-    "pivot-submode": "suburbanRailway"
+    "pivot-submode": "suburbanRailway",
+    "default": "",
+    "reversible": true
   }, {
     "code": "",
     "mode": "LocalTrain",
     "submode": "unspecified",
     "pivot": "rail",
-    "pivot-submode": "local"
+    "pivot-submode": "local",
+    "default": "",
+    "reversible": true
   }, {
     "code": "",
     "mode": "LongDistanceTrain",
     "submode": "unspecified",
     "pivot": "rail",
-    "pivot-submode": "longDistance"
+    "pivot-submode": "longDistance",
+    "default": "",
+    "reversible": true
   }, {
     "code": "",
     "mode": "Train",
     "submode": "unspecified",
     "pivot": "rail",
-    "pivot-submode": "unspecified"
+    "pivot-submode": "unspecified",
+    "default": "",
+    "reversible": true
   }, {
     "code": "",
     "mode": "Ferry",
     "submode": "unspecified",
     "pivot": "ferry",
-    "pivot-submode": "unspecified"
+    "pivot-submode": "unspecified",
+    "default": "",
+    "reversible": true
   }, {
     "code": "",
     "mode": "Air",
     "submode": "unspecified",
     "pivot": "air",
-    "pivot-submode": "unspecified"
+    "pivot-submode": "unspecified",
+    "default": "",
+    "reversible": true
   }, {
     "code": "",
     "mode": "Waterborne",
     "submode": "unspecified",
     "pivot": "water",
-    "pivot-submode": "unspecified"
+    "pivot-submode": "unspecified",
+    "default": "",
+    "reversible": true
   }, {
     "code": "",
     "mode": "PrivateVehicle",
     "submode": "unspecified",
     "pivot": "other",
-    "pivot-submode": "unspecified"
+    "pivot-submode": "unspecified",
+    "default": "",
+    "reversible": ""
   }, {
     "code": "",
     "mode": "Walk",
     "submode": "unspecified",
     "pivot": "other",
-    "pivot-submode": "unspecified"
+    "pivot-submode": "unspecified",
+    "default": "",
+    "reversible": ""
   }, {
     "code": "",
     "mode": "Bicycle",
     "submode": "unspecified",
     "pivot": "other",
-    "pivot-submode": "unspecified"
+    "pivot-submode": "unspecified",
+    "default": "",
+    "reversible": ""
   }, {
     "code": "",
     "mode": "Shuttle",
     "submode": "unspecified",
     "pivot": "bus",
-    "pivot-submode": "shuttleBus"
+    "pivot-submode": "shuttleBus",
+    "default": "",
+    "reversible": true
   }, {
     "code": "",
     "mode": "Taxi",
     "submode": "unspecified",
     "pivot": "Taxi",
-    "pivot-submode": "unspecified"
+    "pivot-submode": "unspecified",
+    "default": "",
+    "reversible": true
+  }, {
+    "code": "",
+    "mode": "Other",
+    "submode": "unspecified",
+    "pivot": "other",
+    "pivot-submode": "unspecified",
+    "default": true,
+    "reversible": true
   }
 ]

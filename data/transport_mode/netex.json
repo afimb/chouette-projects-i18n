@@ -3,626 +3,876 @@
     "mode": "air",
     "submode": "unspecified",
     "pivot": "air",
-    "pivot-submode": "unspecified"
+    "pivot-submode": "unspecified",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "air",
     "submode": "undefined",
     "pivot": "air",
-    "pivot-submode": "undefined"
+    "pivot-submode": "undefined",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "air",
     "submode": "unknown",
     "pivot": "air",
-    "pivot-submode": "unknown"
+    "pivot-submode": "unknown",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "air",
     "submode": "internationalFlight",
     "pivot": "air",
-    "pivot-submode": "internationalFlight"
+    "pivot-submode": "internationalFlight",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "air",
     "submode": "domesticFlight",
     "pivot": "air",
-    "pivot-submode": "domesticFlight"
+    "pivot-submode": "domesticFlight",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "air",
     "submode": "intercontinentalFlight",
     "pivot": "air",
-    "pivot-submode": "intercontinentalFlight"
+    "pivot-submode": "intercontinentalFlight",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "air",
     "submode": "domesticScheduledFlight",
     "pivot": "air",
-    "pivot-submode": "domesticScheduledFlight"
+    "pivot-submode": "domesticScheduledFlight",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "air",
     "submode": "shuttleFlight",
     "pivot": "air",
-    "pivot-submode": "shuttleFlight"
+    "pivot-submode": "shuttleFlight",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "air",
     "submode": "intercontinentalCharterFlight",
     "pivot": "air",
-    "pivot-submode": "intercontinentalCharterFlight"
+    "pivot-submode": "intercontinentalCharterFlight",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "air",
     "submode": "internationalCharterFlight",
     "pivot": "air",
-    "pivot-submode": "internationalCharterFlight"
+    "pivot-submode": "internationalCharterFlight",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "air",
     "submode": "roundTripCharterFlight",
     "pivot": "air",
-    "pivot-submode": "roundTripCharterFlight"
+    "pivot-submode": "roundTripCharterFlight",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "air",
     "submode": "sightseeingFlight",
     "pivot": "air",
-    "pivot-submode": "sightseeingFlight"
+    "pivot-submode": "sightseeingFlight",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "air",
     "submode": "helicopterService",
     "pivot": "air",
-    "pivot-submode": "helicopterService"
+    "pivot-submode": "helicopterService",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "air",
     "submode": "domesticCharterFlight",
     "pivot": "air",
-    "pivot-submode": "domesticCharterFlight"
+    "pivot-submode": "domesticCharterFlight",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "air",
     "submode": "SchengenAreaFlight",
     "pivot": "air",
-    "pivot-submode": "SchengenAreaFlight"
+    "pivot-submode": "SchengenAreaFlight",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "air",
     "submode": "airshipService",
     "pivot": "air",
-    "pivot-submode": "airshipService"
+    "pivot-submode": "airshipService",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "air",
     "submode": "shortHaulInternationalFlight",
     "pivot": "air",
-    "pivot-submode": "shortHaulInternationalFlight"
+    "pivot-submode": "shortHaulInternationalFlight",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "air",
     "submode": "canalBarge",
     "pivot": "air",
-    "pivot-submode": "canalBarge" 
+    "pivot-submode": "canalBarge" ,
+    "default": "",
+    "reversible": ""
   }, {
     "mode": "bus",
     "submode": "unspecified",
     "pivot": "bus",
-    "pivot-submode": "unspecified"
+    "pivot-submode": "unspecified",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "bus",
     "submode": "undefined",
     "pivot": "bus",
-    "pivot-submode": "undefined"
+    "pivot-submode": "undefined",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "bus",
     "submode": "unknown",
     "pivot": "bus",
-    "pivot-submode": "unknown"
+    "pivot-submode": "unknown",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "bus",
     "submode": "localBus",
     "pivot": "bus",
-    "pivot-submode": "localBus"
+    "pivot-submode": "localBus",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "bus",
     "submode": "regionalBus",
     "pivot": "bus",
-    "pivot-submode": "regionalBus"
+    "pivot-submode": "regionalBus",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "bus",
     "submode": "expressBus",
     "pivot": "bus",
-    "pivot-submode": "expressBus"
+    "pivot-submode": "expressBus",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "bus",
     "submode": "nightBus",
     "pivot": "bus",
-    "pivot-submode": "nightBus"
+    "pivot-submode": "nightBus",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "bus",
     "submode": "postBus",
     "pivot": "bus",
-    "pivot-submode": "postBus"
+    "pivot-submode": "postBus",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "bus",
     "submode": "specialNeedsBus",
     "pivot": "bus",
-    "pivot-submode": "specialNeedsBus"
+    "pivot-submode": "specialNeedsBus",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "bus",
     "submode": "mobilityBus",
     "pivot": "bus",
-    "pivot-submode": "mobilityBus"
+    "pivot-submode": "mobilityBus",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "bus",
     "submode": "mobilityBusForRegisteredDisabled",
     "pivot": "bus",
-    "pivot-submode": "mobilityBusForRegisteredDisabled"
+    "pivot-submode": "mobilityBusForRegisteredDisabled",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "bus",
     "submode": "sightseeingBus",
     "pivot": "bus",
-    "pivot-submode": "sightseeingBus"
+    "pivot-submode": "sightseeingBus",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "bus",
     "submode": "shuttleBus",
     "pivot": "bus",
-    "pivot-submode": "shuttleBus"
+    "pivot-submode": "shuttleBus",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "bus",
     "submode": "highFrequencyBus",
     "pivot": "bus",
-    "pivot-submode": "highFrequencyBus"
+    "pivot-submode": "highFrequencyBus",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "bus",
     "submode": "dedicatedLaneBus",
     "pivot": "bus",
-    "pivot-submode": "dedicatedLaneBus"
+    "pivot-submode": "dedicatedLaneBus",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "bus",
     "submode": "schoolBus",
     "pivot": "bus",
-    "pivot-submode": "schoolBus"
+    "pivot-submode": "schoolBus",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "bus",
     "submode": "schoolAndPublicServiceBus",
     "pivot": "bus",
-    "pivot-submode": "schoolAndPublicServiceBus"
+    "pivot-submode": "schoolAndPublicServiceBus",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "bus",
     "submode": "railReplacementBus",
     "pivot": "bus",
-    "pivot-submode": "railReplacementBus"
+    "pivot-submode": "railReplacementBus",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "bus",
     "submode": "demandAndResponseBus",
     "pivot": "bus",
-    "pivot-submode": "demandAndResponseBus"
+    "pivot-submode": "demandAndResponseBus",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "bus",
     "submode": "airportLinkBus",
     "pivot": "bus",
-    "pivot-submode": "airportLinkBus"
+    "pivot-submode": "airportLinkBus",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "coach",
     "submode": "unspecified",
     "pivot": "coach",
-    "pivot-submode": "unspecified"
+    "pivot-submode": "unspecified",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "coach",
     "submode": "undefined",
     "pivot": "coach",
-    "pivot-submode": "undefined"
+    "pivot-submode": "undefined",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "coach",
     "submode": "unknown",
     "pivot": "coach",
-    "pivot-submode": "unknown"
+    "pivot-submode": "unknown",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "coach",
     "submode": "internationalCoach",
     "pivot": "coach",
-    "pivot-submode": "internationalCoach"
+    "pivot-submode": "internationalCoach",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "coach",
     "submode": "nationalCoach",
     "pivot": "coach",
-    "pivot-submode": "nationalCoach"
+    "pivot-submode": "nationalCoach",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "coach",
     "submode": "shuttleCoach",
     "pivot": "coach",
-    "pivot-submode": "shuttleCoach"
+    "pivot-submode": "shuttleCoach",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "coach",
     "submode": "regionalCoach",
     "pivot": "coach",
-    "pivot-submode": "regionalCoach"
+    "pivot-submode": "regionalCoach",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "coach",
     "submode": "specialCoach",
     "pivot": "coach",
-    "pivot-submode": "specialCoach"
+    "pivot-submode": "specialCoach",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "coach",
     "submode": "schoolCoach",
     "pivot": "coach",
-    "pivot-submode": "schoolCoach"
+    "pivot-submode": "schoolCoach",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "coach",
     "submode": "sightseeingCoach",
     "pivot": "coach",
-    "pivot-submode": "sightseeingCoach"
+    "pivot-submode": "sightseeingCoach",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "coach",
     "submode": "touristCoach",
     "pivot": "coach",
-    "pivot-submode": "touristCoach"
+    "pivot-submode": "touristCoach",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "coach",
     "submode": "commuterCoach",
     "pivot": "coach",
-    "pivot-submode": "commuterCoach"
+    "pivot-submode": "commuterCoach",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "ferry",
     "submode": "unspecified",
     "pivot": "ferry",
-    "pivot-submode": "unspecified"
+    "pivot-submode": "unspecified",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "metro",
     "submode": "unspecified",
     "pivot": "metro",
-    "pivot-submode": "unspecified"
+    "pivot-submode": "unspecified",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "metro",
     "submode": "undefined",
     "pivot": "metro",
-    "pivot-submode": "undefined"
+    "pivot-submode": "undefined",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "metro",
     "submode": "unknown",
     "pivot": "metro",
-    "pivot-submode": "unknown"
+    "pivot-submode": "unknown",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "metro",
     "submode": "metro",
     "pivot": "metro",
-    "pivot-submode": "metro"
+    "pivot-submode": "metro",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "metro",
     "submode": "tube",
     "pivot": "metro",
-    "pivot-submode": "tube"
+    "pivot-submode": "tube",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "metro",
     "submode": "urbanRailway",
     "pivot": "metro",
-    "pivot-submode": "urbanRailway"
+    "pivot-submode": "urbanRailway",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "rail",
     "submode": "unspecified",
     "pivot": "rail",
-    "pivot-submode": "unspecified"
+    "pivot-submode": "unspecified",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "rail",
     "submode": "undefined",
     "pivot": "rail",
-    "pivot-submode": "undefined"
+    "pivot-submode": "undefined",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "rail",
     "submode": "unknown",
     "pivot": "rail",
-    "pivot-submode": "unknown"
+    "pivot-submode": "unknown",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "rail",
     "submode": "local",
     "pivot": "rail",
-    "pivot-submode": "local"
+    "pivot-submode": "local",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "rail",
     "submode": "highSpeedRail",
     "pivot": "rail",
-    "pivot-submode": "highSpeedRail"
+    "pivot-submode": "highSpeedRail",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "rail",
     "submode": "suburbanRailway",
     "pivot": "rail",
-    "pivot-submode": "suburbanRailway"
+    "pivot-submode": "suburbanRailway",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "rail",
     "submode": "regionalRail",
     "pivot": "rail",
-    "pivot-submode": "regionalRail"
+    "pivot-submode": "regionalRail",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "rail",
     "submode": "interregionalRail",
     "pivot": "rail",
-    "pivot-submode": "interregionalRail"
+    "pivot-submode": "interregionalRail",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "rail",
     "submode": "longDistance",
     "pivot": "rail",
-    "pivot-submode": "longDistance"
+    "pivot-submode": "longDistance",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "rail",
     "submode": "intermational",
     "pivot": "rail",
-    "pivot-submode": "intermational"
+    "pivot-submode": "intermational",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "rail",
     "submode": "sleeperRailService",
     "pivot": "rail",
-    "pivot-submode": "sleeperRailService"
+    "pivot-submode": "sleeperRailService",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "rail",
     "submode": "nightRail",
     "pivot": "rail",
-    "pivot-submode": "nightRail"
+    "pivot-submode": "nightRail",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "rail",
     "submode": "carTransportRailService",
     "pivot": "rail",
-    "pivot-submode": "carTransportRailService"
+    "pivot-submode": "carTransportRailService",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "rail",
     "submode": "touristRailway",
     "pivot": "rail",
-    "pivot-submode": "touristRailway"
+    "pivot-submode": "touristRailway",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "rail",
     "submode": "railShuttle",
     "pivot": "rail",
-    "pivot-submode": "railShuttle"
+    "pivot-submode": "railShuttle",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "rail",
     "submode": "replacementRailService",
     "pivot": "rail",
-    "pivot-submode": "replacementRailService"
+    "pivot-submode": "replacementRailService",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "rail",
     "submode": "specialTrain",
     "pivot": "rail",
-    "pivot-submode": "specialTrain"
+    "pivot-submode": "specialTrain",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "rail",
     "submode": "crossCountryRail",
     "pivot": "rail",
-    "pivot-submode": "crossCountryRail"
+    "pivot-submode": "crossCountryRail",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "rail",
     "submode": "rackAndPinionRailway",
     "pivot": "rail",
-    "pivot-submode": "rackAndPinionRailway"
+    "pivot-submode": "rackAndPinionRailway",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "trolleyBus",
     "submode": "unspecified",
     "pivot": "trolleyBus",
-    "pivot-submode": "unspecified"
+    "pivot-submode": "unspecified",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "tram",
     "submode": "unspecified",
     "pivot": "tram",
-    "pivot-submode": "unspecified"
+    "pivot-submode": "unspecified",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "tram",
     "submode": "undefined",
     "pivot": "tram",
-    "pivot-submode": "undefined"
+    "pivot-submode": "undefined",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "tram",
     "submode": "unknown",
     "pivot": "tram",
-    "pivot-submode": "unknown"
+    "pivot-submode": "unknown",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "tram",
     "submode": "cityTram",
     "pivot": "tram",
-    "pivot-submode": "cityTram"
+    "pivot-submode": "cityTram",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "tram",
     "submode": "localTram",
     "pivot": "tram",
-    "pivot-submode": "localTram"
+    "pivot-submode": "localTram",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "tram",
     "submode": "regionalTram",
     "pivot": "tram",
-    "pivot-submode": "regionalTram"
+    "pivot-submode": "regionalTram",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "tram",
     "submode": "sightseeingTram",
     "pivot": "tram",
-    "pivot-submode": "sightseeingTram"
+    "pivot-submode": "sightseeingTram",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "tram",
     "submode": "shuttleTram",
     "pivot": "tram",
-    "pivot-submode": "shuttleTram"
+    "pivot-submode": "shuttleTram",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "tram",
     "submode": "trainTram",
     "pivot": "tram",
-    "pivot-submode": "trainTram"
+    "pivot-submode": "trainTram",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "water",
     "submode": "unspecified",
     "pivot": "water",
-    "pivot-submode": "unspecified"
+    "pivot-submode": "unspecified",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "water",
     "submode": "undefined",
     "pivot": "water",
-    "pivot-submode": "undefined"
+    "pivot-submode": "undefined",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "water",
     "submode": "unknown",
     "pivot": "water",
-    "pivot-submode": "unknown"
+    "pivot-submode": "unknown",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "water",
     "submode": "internationalCarFerry",
     "pivot": "water",
-    "pivot-submode": "internationalCarFerry"
+    "pivot-submode": "internationalCarFerry",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "water",
     "submode": "nationalCarFerry",
     "pivot": "water",
-    "pivot-submode": "nationalCarFerry"
+    "pivot-submode": "nationalCarFerry",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "water",
     "submode": "regionalCarFerry",
     "pivot": "water",
-    "pivot-submode": "regionalCarFerry"
+    "pivot-submode": "regionalCarFerry",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "water",
     "submode": "localCarFerry",
     "pivot": "water",
-    "pivot-submode": "localCarFerry"
+    "pivot-submode": "localCarFerry",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "water",
     "submode": "internationalPassengerFerry",
     "pivot": "water",
-    "pivot-submode": "internationalPassengerFerry"
+    "pivot-submode": "internationalPassengerFerry",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "water",
     "submode": "nationalPassengerFerry",
     "pivot": "water",
-    "pivot-submode": "nationalPassengerFerry"
+    "pivot-submode": "nationalPassengerFerry",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "water",
     "submode": "regionalPassengerFerry",
     "pivot": "water",
-    "pivot-submode": "regionalPassengerFerry"
+    "pivot-submode": "regionalPassengerFerry",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "water",
     "submode": "localPassengerFerry",
     "pivot": "water",
-    "pivot-submode": "localPassengerFerry"
+    "pivot-submode": "localPassengerFerry",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "water",
     "submode": "postBoat",
     "pivot": "water",
-    "pivot-submode": "postBoat"
+    "pivot-submode": "postBoat",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "water",
     "submode": "trainFerry",
     "pivot": "water",
-    "pivot-submode": "trainFerry"
+    "pivot-submode": "trainFerry",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "water",
     "submode": "roadFerryLink",
     "pivot": "water",
-    "pivot-submode": "roadFerryLink"
+    "pivot-submode": "roadFerryLink",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "water",
     "submode": "airportBoatLink",
     "pivot": "water",
-    "pivot-submode": "airportBoatLink"
+    "pivot-submode": "airportBoatLink",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "water",
     "submode": "highSpeedVehicleService",
     "pivot": "water",
-    "pivot-submode": "highSpeedVehicleService"
+    "pivot-submode": "highSpeedVehicleService",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "water",
     "submode": "highSpeedPassengerService",
     "pivot": "water",
-    "pivot-submode": "highSpeedPassengerService"
+    "pivot-submode": "highSpeedPassengerService",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "water",
     "submode": "sightseeingService",
     "pivot": "water",
-    "pivot-submode": "sightseeingService"
+    "pivot-submode": "sightseeingService",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "water",
     "submode": "schoolBoat",
     "pivot": "water",
-    "pivot-submode": "schoolBoat"
+    "pivot-submode": "schoolBoat",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "water",
     "submode": "cableFerry",
     "pivot": "water",
-    "pivot-submode": "cableFerry"
+    "pivot-submode": "cableFerry",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "water",
     "submode": "riverBus",
     "pivot": "water",
-    "pivot-submode": "riverBus"
+    "pivot-submode": "riverBus",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "water",
     "submode": "scheduledFerry",
     "pivot": "water",
-    "pivot-submode": "scheduledFerry"
+    "pivot-submode": "scheduledFerry",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "water",
     "submode": "shuttleFerryService",
     "pivot": "water",
-    "pivot-submode": "shuttleFerryService"
+    "pivot-submode": "shuttleFerryService",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "cableway",
     "submode": "unspecified",
     "pivot": "cableway",
-    "pivot-submode": "unspecified"
+    "pivot-submode": "unspecified",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "cableway",
     "submode": "undefined",
     "pivot": "cableway",
-    "pivot-submode": "undefined"
+    "pivot-submode": "undefined",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "cableway",
     "submode": "unknown",
     "pivot": "cableway",
-    "pivot-submode": "unknown"
+    "pivot-submode": "unknown",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "cableway",
     "submode": "telecabin",
     "pivot": "cableway",
-    "pivot-submode": "telecabin"
+    "pivot-submode": "telecabin",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "cableway",
     "submode": "cableCar",
     "pivot": "cableway",
-    "pivot-submode": "cableCar"
+    "pivot-submode": "cableCar",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "cableway",
     "submode": "lift",
     "pivot": "cableway",
-    "pivot-submode": "lift"
+    "pivot-submode": "lift",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "cableway",
     "submode": "chairLift",
     "pivot": "cableway",
-    "pivot-submode": "chairLift"
+    "pivot-submode": "chairLift",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "cableway",
     "submode": "dragLift",
     "pivot": "cableway",
-    "pivot-submode": "dragLift"
+    "pivot-submode": "dragLift",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "cableway",
     "submode": "telecabinLink",
     "pivot": "cableway",
-    "pivot-submode": "telecabinLink"
+    "pivot-submode": "telecabinLink",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "funicular",
     "submode": "unspecified",
     "pivot": "funicular",
-    "pivot-submode": "unspecified"
+    "pivot-submode": "unspecified",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "funicular",
     "submode": "unknown",
     "pivot": "funicular",
-    "pivot-submode": "unknown"
+    "pivot-submode": "unknown",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "funicular",
     "submode": "funicular",
     "pivot": "funicular",
-    "pivot-submode": "funicular"
+    "pivot-submode": "funicular",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "funicular",
     "submode": "streetCableCar",
     "pivot": "funicular",
-    "pivot-submode": "streetCableCar"
+    "pivot-submode": "streetCableCar",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "funicular",
     "submode": "allFunicularServices",
     "pivot": "funicular",
-    "pivot-submode": "allFunicularServices"
+    "pivot-submode": "allFunicularServices",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "funicular",
     "submode": "undefinedFunicular",
     "pivot": "funicular",
-    "pivot-submode": "undefined"
+    "pivot-submode": "undefined",
+    "default": "",
+    "reversible": true
   }, {
     "mode": "other",
     "submode": "unspecified",
     "pivot": "other",
-    "pivot-submode": "unspecified"
+    "pivot-submode": "unspecified",
+    "default": true,
+    "reversible": true
   }
 ]

@@ -4,48 +4,64 @@
     "mode": "Tram, Streetcar, Light rail",
     "submode": "Undefined",
     "pivot": "tram",
-    "pivot-submode": "unspecified"
+    "pivot-submode": "unspecified",
+    "default": "",
+    "reversible": true
   }, {
     "code": "1",
     "mode": "Subway, Metro",
     "submode": "Undefined",
     "pivot": "metro",
-    "pivot-submode": "unspecified"
+    "pivot-submode": "unspecified",
+    "default": "",
+    "reversible": true
   }, {
     "code": "2",
     "mode": "Rail",
     "submode": "Undefined",
     "pivot": "rail",
-    "pivot-submode": "unspecified"
+    "pivot-submode": "unspecified",
+    "default": "",
+    "reversible": true
   }, {
     "code": "3",
     "mode": "Bus",
     "submode": "Undefined",
     "pivot": "bus",
-    "pivot-submode": "unspecified"
+    "pivot-submode": "unspecified",
+    "default": true,
+    "reversible": true
   }, {
     "code": "4",
     "mode": "Ferry",
     "submode": "Undefined",
     "pivot": "ferry",
-    "pivot-submode": "unspecified"
+    "pivot-submode": "unspecified",
+    "default": "",
+    "reversible": true
   }, {
     "code": "5",
     "mode": "Cable car",
     "submode": "Undefined",
     "pivot": "cableway",
-    "pivot-submode": "cableCar"
+    "pivot-submode": "cableCar",
+    "default": "",
+    "reversible": true
   }, {
     "code": "6",
     "mode": "Gondola, Suspended cable car",
     "submode": "Undefined",
     "pivot": "cableway",
-    "pivot-submode": "telecabin"
+    "pivot-submode": "telecabin",
+    "default": "",
+    "reversible": true
   }, {
     "code": "7",
     "mode": "Funicular",
     "submode": "Undefined",
     "pivot": "funicular",
-    "pivot-submode": "unspecified"
+    "pivot-submode": "unspecified",
+    "default": "",
+    "reversible": true
   }
 ]
