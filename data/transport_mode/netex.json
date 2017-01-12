@@ -5,874 +5,1624 @@
     "pivot": "air",
     "pivot-submode": "unspecified",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 200,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 800,
+    "speed_min_mode": 700,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "mode": "air",
     "submode": "undefined",
     "pivot": "air",
     "pivot-submode": "undefined",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 200,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 800,
+    "speed_min_mode": 700,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "mode": "air",
     "submode": "unknown",
     "pivot": "air",
     "pivot-submode": "unknown",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 200,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 800,
+    "speed_min_mode": 700,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "mode": "air",
     "submode": "internationalFlight",
     "pivot": "air",
     "pivot-submode": "internationalFlight",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 200,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 800,
+    "speed_min_mode": 700,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "mode": "air",
     "submode": "domesticFlight",
     "pivot": "air",
     "pivot-submode": "domesticFlight",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 200,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 800,
+    "speed_min_mode": 700,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "mode": "air",
     "submode": "intercontinentalFlight",
     "pivot": "air",
     "pivot-submode": "intercontinentalFlight",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 200,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 800,
+    "speed_min_mode": 700,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "mode": "air",
     "submode": "domesticScheduledFlight",
     "pivot": "air",
     "pivot-submode": "domesticScheduledFlight",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 200,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 800,
+    "speed_min_mode": 700,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "mode": "air",
     "submode": "shuttleFlight",
     "pivot": "air",
     "pivot-submode": "shuttleFlight",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 200,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 800,
+    "speed_min_mode": 700,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "mode": "air",
     "submode": "intercontinentalCharterFlight",
     "pivot": "air",
     "pivot-submode": "intercontinentalCharterFlight",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 200,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 800,
+    "speed_min_mode": 700,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "mode": "air",
     "submode": "internationalCharterFlight",
     "pivot": "air",
     "pivot-submode": "internationalCharterFlight",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 200,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 800,
+    "speed_min_mode": 700,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "mode": "air",
     "submode": "roundTripCharterFlight",
     "pivot": "air",
     "pivot-submode": "roundTripCharterFlight",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 200,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 800,
+    "speed_min_mode": 700,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "mode": "air",
     "submode": "sightseeingFlight",
     "pivot": "air",
     "pivot-submode": "sightseeingFlight",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 200,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 800,
+    "speed_min_mode": 700,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "mode": "air",
     "submode": "helicopterService",
     "pivot": "air",
     "pivot-submode": "helicopterService",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 200,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 800,
+    "speed_min_mode": 700,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "mode": "air",
     "submode": "domesticCharterFlight",
     "pivot": "air",
     "pivot-submode": "domesticCharterFlight",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 200,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 800,
+    "speed_min_mode": 700,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "mode": "air",
     "submode": "SchengenAreaFlight",
     "pivot": "air",
     "pivot-submode": "SchengenAreaFlight",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 200,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 800,
+    "speed_min_mode": 700,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "mode": "air",
     "submode": "airshipService",
     "pivot": "air",
     "pivot-submode": "airshipService",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 200,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 800,
+    "speed_min_mode": 700,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "mode": "air",
     "submode": "shortHaulInternationalFlight",
     "pivot": "air",
     "pivot-submode": "shortHaulInternationalFlight",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 200,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 800,
+    "speed_min_mode": 700,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "mode": "air",
     "submode": "canalBarge",
     "pivot": "air",
     "pivot-submode": "canalBarge" ,
     "default": "",
-    "reversible": ""
+    "reversible": "",
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 200,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 800,
+    "speed_min_mode": 700,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "mode": "bus",
     "submode": "unspecified",
     "pivot": "bus",
     "pivot-submode": "unspecified",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 100,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 60,
+    "speed_min_mode": 10,
+    "inter_stop_duration_variation_max_mode": 15
   }, {
     "mode": "bus",
     "submode": "undefined",
     "pivot": "bus",
     "pivot-submode": "undefined",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 100,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 60,
+    "speed_min_mode": 10,
+    "inter_stop_duration_variation_max_mode": 15
   }, {
     "mode": "bus",
     "submode": "unknown",
     "pivot": "bus",
     "pivot-submode": "unknown",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 100,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 60,
+    "speed_min_mode": 10,
+    "inter_stop_duration_variation_max_mode": 15
   }, {
     "mode": "bus",
     "submode": "localBus",
     "pivot": "bus",
     "pivot-submode": "localBus",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 100,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 60,
+    "speed_min_mode": 10,
+    "inter_stop_duration_variation_max_mode": 15
   }, {
     "mode": "bus",
     "submode": "regionalBus",
     "pivot": "bus",
     "pivot-submode": "regionalBus",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 100,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 60,
+    "speed_min_mode": 10,
+    "inter_stop_duration_variation_max_mode": 15
   }, {
     "mode": "bus",
     "submode": "expressBus",
     "pivot": "bus",
     "pivot-submode": "expressBus",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 100,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 60,
+    "speed_min_mode": 10,
+    "inter_stop_duration_variation_max_mode": 15
   }, {
     "mode": "bus",
     "submode": "nightBus",
     "pivot": "bus",
     "pivot-submode": "nightBus",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 100,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 60,
+    "speed_min_mode": 10,
+    "inter_stop_duration_variation_max_mode": 15
   }, {
     "mode": "bus",
     "submode": "postBus",
     "pivot": "bus",
     "pivot-submode": "postBus",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 100,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 60,
+    "speed_min_mode": 10,
+    "inter_stop_duration_variation_max_mode": 15
   }, {
     "mode": "bus",
     "submode": "specialNeedsBus",
     "pivot": "bus",
     "pivot-submode": "specialNeedsBus",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 100,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 60,
+    "speed_min_mode": 10,
+    "inter_stop_duration_variation_max_mode": 15
   }, {
     "mode": "bus",
     "submode": "mobilityBus",
     "pivot": "bus",
     "pivot-submode": "mobilityBus",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 100,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 60,
+    "speed_min_mode": 10,
+    "inter_stop_duration_variation_max_mode": 15
   }, {
     "mode": "bus",
     "submode": "mobilityBusForRegisteredDisabled",
     "pivot": "bus",
     "pivot-submode": "mobilityBusForRegisteredDisabled",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 100,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 60,
+    "speed_min_mode": 10,
+    "inter_stop_duration_variation_max_mode": 15
   }, {
     "mode": "bus",
     "submode": "sightseeingBus",
     "pivot": "bus",
     "pivot-submode": "sightseeingBus",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 100,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 60,
+    "speed_min_mode": 10,
+    "inter_stop_duration_variation_max_mode": 15
   }, {
     "mode": "bus",
     "submode": "shuttleBus",
     "pivot": "bus",
     "pivot-submode": "shuttleBus",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 100,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 60,
+    "speed_min_mode": 10,
+    "inter_stop_duration_variation_max_mode": 15
   }, {
     "mode": "bus",
     "submode": "highFrequencyBus",
     "pivot": "bus",
     "pivot-submode": "highFrequencyBus",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 100,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 60,
+    "speed_min_mode": 10,
+    "inter_stop_duration_variation_max_mode": 15
   }, {
     "mode": "bus",
     "submode": "dedicatedLaneBus",
     "pivot": "bus",
     "pivot-submode": "dedicatedLaneBus",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 100,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 60,
+    "speed_min_mode": 10,
+    "inter_stop_duration_variation_max_mode": 15
   }, {
     "mode": "bus",
     "submode": "schoolBus",
     "pivot": "bus",
     "pivot-submode": "schoolBus",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 100,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 60,
+    "speed_min_mode": 10,
+    "inter_stop_duration_variation_max_mode": 15
   }, {
     "mode": "bus",
     "submode": "schoolAndPublicServiceBus",
     "pivot": "bus",
     "pivot-submode": "schoolAndPublicServiceBus",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 100,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 60,
+    "speed_min_mode": 10,
+    "inter_stop_duration_variation_max_mode": 15
   }, {
     "mode": "bus",
     "submode": "railReplacementBus",
     "pivot": "bus",
     "pivot-submode": "railReplacementBus",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 100,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 60,
+    "speed_min_mode": 10,
+    "inter_stop_duration_variation_max_mode": 15
   }, {
     "mode": "bus",
     "submode": "demandAndResponseBus",
     "pivot": "bus",
     "pivot-submode": "demandAndResponseBus",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 100,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 60,
+    "speed_min_mode": 10,
+    "inter_stop_duration_variation_max_mode": 15
   }, {
     "mode": "bus",
     "submode": "airportLinkBus",
     "pivot": "bus",
     "pivot-submode": "airportLinkBus",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 100,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 60,
+    "speed_min_mode": 10,
+    "inter_stop_duration_variation_max_mode": 15
   }, {
     "mode": "coach",
     "submode": "unspecified",
     "pivot": "coach",
     "pivot-submode": "unspecified",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 500,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 90,
+    "speed_min_mode": 40,
+    "inter_stop_duration_variation_max_mode": 20
   }, {
     "mode": "coach",
     "submode": "undefined",
     "pivot": "coach",
     "pivot-submode": "undefined",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 500,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 90,
+    "speed_min_mode": 40,
+    "inter_stop_duration_variation_max_mode": 20
   }, {
     "mode": "coach",
     "submode": "unknown",
     "pivot": "coach",
     "pivot-submode": "unknown",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 500,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 90,
+    "speed_min_mode": 40,
+    "inter_stop_duration_variation_max_mode": 20
   }, {
     "mode": "coach",
     "submode": "internationalCoach",
     "pivot": "coach",
     "pivot-submode": "internationalCoach",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 500,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 90,
+    "speed_min_mode": 40,
+    "inter_stop_duration_variation_max_mode": 20
   }, {
     "mode": "coach",
     "submode": "nationalCoach",
     "pivot": "coach",
     "pivot-submode": "nationalCoach",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 500,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 90,
+    "speed_min_mode": 40,
+    "inter_stop_duration_variation_max_mode": 20
   }, {
     "mode": "coach",
     "submode": "shuttleCoach",
     "pivot": "coach",
     "pivot-submode": "shuttleCoach",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 500,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 90,
+    "speed_min_mode": 40,
+    "inter_stop_duration_variation_max_mode": 20
   }, {
     "mode": "coach",
     "submode": "regionalCoach",
     "pivot": "coach",
     "pivot-submode": "regionalCoach",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 500,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 90,
+    "speed_min_mode": 40,
+    "inter_stop_duration_variation_max_mode": 20
   }, {
     "mode": "coach",
     "submode": "specialCoach",
     "pivot": "coach",
     "pivot-submode": "specialCoach",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 500,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 90,
+    "speed_min_mode": 40,
+    "inter_stop_duration_variation_max_mode": 20
   }, {
     "mode": "coach",
     "submode": "schoolCoach",
     "pivot": "coach",
     "pivot-submode": "schoolCoach",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 500,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 90,
+    "speed_min_mode": 40,
+    "inter_stop_duration_variation_max_mode": 20
   }, {
     "mode": "coach",
     "submode": "sightseeingCoach",
     "pivot": "coach",
     "pivot-submode": "sightseeingCoach",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 500,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 90,
+    "speed_min_mode": 40,
+    "inter_stop_duration_variation_max_mode": 20
   }, {
     "mode": "coach",
     "submode": "touristCoach",
     "pivot": "coach",
     "pivot-submode": "touristCoach",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 500,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 90,
+    "speed_min_mode": 40,
+    "inter_stop_duration_variation_max_mode": 20
   }, {
     "mode": "coach",
     "submode": "commuterCoach",
     "pivot": "coach",
     "pivot-submode": "commuterCoach",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 500,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 90,
+    "speed_min_mode": 40,
+    "inter_stop_duration_variation_max_mode": 20
   }, {
     "mode": "ferry",
     "submode": "unspecified",
     "pivot": "ferry",
     "pivot-submode": "unspecified",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 200,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 40,
+    "speed_min_mode": 5,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "mode": "metro",
     "submode": "unspecified",
     "pivot": "metro",
     "pivot-submode": "unspecified",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 300,
+    "inter_stop_area_distance_max_mode": 2000,
+    "speed_max_mode": 60,
+    "speed_min_mode": 30,
+    "inter_stop_duration_variation_max_mode": 30
   }, {
     "mode": "metro",
     "submode": "undefined",
     "pivot": "metro",
     "pivot-submode": "undefined",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 300,
+    "inter_stop_area_distance_max_mode": 2000,
+    "speed_max_mode": 60,
+    "speed_min_mode": 30,
+    "inter_stop_duration_variation_max_mode": 30
   }, {
     "mode": "metro",
     "submode": "unknown",
     "pivot": "metro",
     "pivot-submode": "unknown",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 300,
+    "inter_stop_area_distance_max_mode": 2000,
+    "speed_max_mode": 60,
+    "speed_min_mode": 30,
+    "inter_stop_duration_variation_max_mode": 30
   }, {
     "mode": "metro",
     "submode": "metro",
     "pivot": "metro",
     "pivot-submode": "metro",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 300,
+    "inter_stop_area_distance_max_mode": 2000,
+    "speed_max_mode": 60,
+    "speed_min_mode": 30,
+    "inter_stop_duration_variation_max_mode": 30
   }, {
     "mode": "metro",
     "submode": "tube",
     "pivot": "metro",
     "pivot-submode": "tube",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 300,
+    "inter_stop_area_distance_max_mode": 2000,
+    "speed_max_mode": 60,
+    "speed_min_mode": 30,
+    "inter_stop_duration_variation_max_mode": 30
   }, {
     "mode": "metro",
     "submode": "urbanRailway",
     "pivot": "metro",
     "pivot-submode": "urbanRailway",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 300,
+    "inter_stop_area_distance_max_mode": 2000,
+    "speed_max_mode": 60,
+    "speed_min_mode": 30,
+    "inter_stop_duration_variation_max_mode": 30
   }, {
     "mode": "rail",
     "submode": "unspecified",
     "pivot": "rail",
     "pivot-submode": "unspecified",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 2000,
+    "inter_stop_area_distance_max_mode": 500000,
+    "speed_max_mode": 300,
+    "speed_min_mode": 20,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "mode": "rail",
     "submode": "undefined",
     "pivot": "rail",
     "pivot-submode": "undefined",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 2000,
+    "inter_stop_area_distance_max_mode": 500000,
+    "speed_max_mode": 300,
+    "speed_min_mode": 20,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "mode": "rail",
     "submode": "unknown",
     "pivot": "rail",
     "pivot-submode": "unknown",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 2000,
+    "inter_stop_area_distance_max_mode": 500000,
+    "speed_max_mode": 300,
+    "speed_min_mode": 20,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "mode": "rail",
     "submode": "local",
     "pivot": "rail",
     "pivot-submode": "local",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 2000,
+    "inter_stop_area_distance_max_mode": 500000,
+    "speed_max_mode": 300,
+    "speed_min_mode": 20,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "mode": "rail",
     "submode": "highSpeedRail",
     "pivot": "rail",
     "pivot-submode": "highSpeedRail",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 2000,
+    "inter_stop_area_distance_max_mode": 500000,
+    "speed_max_mode": 300,
+    "speed_min_mode": 20,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "mode": "rail",
     "submode": "suburbanRailway",
     "pivot": "rail",
     "pivot-submode": "suburbanRailway",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 2000,
+    "inter_stop_area_distance_max_mode": 500000,
+    "speed_max_mode": 300,
+    "speed_min_mode": 20,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "mode": "rail",
     "submode": "regionalRail",
     "pivot": "rail",
     "pivot-submode": "regionalRail",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 2000,
+    "inter_stop_area_distance_max_mode": 500000,
+    "speed_max_mode": 300,
+    "speed_min_mode": 20,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "mode": "rail",
     "submode": "interregionalRail",
     "pivot": "rail",
     "pivot-submode": "interregionalRail",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 2000,
+    "inter_stop_area_distance_max_mode": 500000,
+    "speed_max_mode": 300,
+    "speed_min_mode": 20,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "mode": "rail",
     "submode": "longDistance",
     "pivot": "rail",
     "pivot-submode": "longDistance",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 2000,
+    "inter_stop_area_distance_max_mode": 500000,
+    "speed_max_mode": 300,
+    "speed_min_mode": 20,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "mode": "rail",
     "submode": "intermational",
     "pivot": "rail",
     "pivot-submode": "intermational",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 2000,
+    "inter_stop_area_distance_max_mode": 500000,
+    "speed_max_mode": 300,
+    "speed_min_mode": 20,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "mode": "rail",
     "submode": "sleeperRailService",
     "pivot": "rail",
     "pivot-submode": "sleeperRailService",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 2000,
+    "inter_stop_area_distance_max_mode": 500000,
+    "speed_max_mode": 300,
+    "speed_min_mode": 20,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "mode": "rail",
     "submode": "nightRail",
     "pivot": "rail",
     "pivot-submode": "nightRail",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 2000,
+    "inter_stop_area_distance_max_mode": 500000,
+    "speed_max_mode": 300,
+    "speed_min_mode": 20,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "mode": "rail",
     "submode": "carTransportRailService",
     "pivot": "rail",
     "pivot-submode": "carTransportRailService",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 2000,
+    "inter_stop_area_distance_max_mode": 500000,
+    "speed_max_mode": 300,
+    "speed_min_mode": 20,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "mode": "rail",
     "submode": "touristRailway",
     "pivot": "rail",
     "pivot-submode": "touristRailway",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 2000,
+    "inter_stop_area_distance_max_mode": 500000,
+    "speed_max_mode": 300,
+    "speed_min_mode": 20,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "mode": "rail",
     "submode": "railShuttle",
     "pivot": "rail",
     "pivot-submode": "railShuttle",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 2000,
+    "inter_stop_area_distance_max_mode": 500000,
+    "speed_max_mode": 300,
+    "speed_min_mode": 20,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "mode": "rail",
     "submode": "replacementRailService",
     "pivot": "rail",
     "pivot-submode": "replacementRailService",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 2000,
+    "inter_stop_area_distance_max_mode": 500000,
+    "speed_max_mode": 300,
+    "speed_min_mode": 20,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "mode": "rail",
     "submode": "specialTrain",
     "pivot": "rail",
     "pivot-submode": "specialTrain",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 2000,
+    "inter_stop_area_distance_max_mode": 500000,
+    "speed_max_mode": 300,
+    "speed_min_mode": 20,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "mode": "rail",
     "submode": "crossCountryRail",
     "pivot": "rail",
     "pivot-submode": "crossCountryRail",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 2000,
+    "inter_stop_area_distance_max_mode": 500000,
+    "speed_max_mode": 300,
+    "speed_min_mode": 20,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "mode": "rail",
     "submode": "rackAndPinionRailway",
     "pivot": "rail",
     "pivot-submode": "rackAndPinionRailway",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 2000,
+    "inter_stop_area_distance_max_mode": 500000,
+    "speed_max_mode": 300,
+    "speed_min_mode": 20,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "mode": "trolleyBus",
     "submode": "unspecified",
     "pivot": "trolleyBus",
     "pivot-submode": "unspecified",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 300,
+    "inter_stop_area_distance_max_mode": 2000,
+    "speed_max_mode": 50,
+    "speed_min_mode": 20,
+    "inter_stop_duration_variation_max_mode": 30
   }, {
     "mode": "tram",
     "submode": "unspecified",
     "pivot": "tram",
     "pivot-submode": "unspecified",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 300,
+    "inter_stop_area_distance_max_mode": 2000,
+    "speed_max_mode": 50,
+    "speed_min_mode": 20,
+    "inter_stop_duration_variation_max_mode": 30
   }, {
     "mode": "tram",
     "submode": "undefined",
     "pivot": "tram",
     "pivot-submode": "undefined",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 300,
+    "inter_stop_area_distance_max_mode": 2000,
+    "speed_max_mode": 50,
+    "speed_min_mode": 20,
+    "inter_stop_duration_variation_max_mode": 30
   }, {
     "mode": "tram",
     "submode": "unknown",
     "pivot": "tram",
     "pivot-submode": "unknown",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 300,
+    "inter_stop_area_distance_max_mode": 2000,
+    "speed_max_mode": 50,
+    "speed_min_mode": 20,
+    "inter_stop_duration_variation_max_mode": 30
   }, {
     "mode": "tram",
     "submode": "cityTram",
     "pivot": "tram",
     "pivot-submode": "cityTram",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 300,
+    "inter_stop_area_distance_max_mode": 2000,
+    "speed_max_mode": 50,
+    "speed_min_mode": 20,
+    "inter_stop_duration_variation_max_mode": 30
   }, {
     "mode": "tram",
     "submode": "localTram",
     "pivot": "tram",
     "pivot-submode": "localTram",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 300,
+    "inter_stop_area_distance_max_mode": 2000,
+    "speed_max_mode": 50,
+    "speed_min_mode": 20,
+    "inter_stop_duration_variation_max_mode": 30
   }, {
     "mode": "tram",
     "submode": "regionalTram",
     "pivot": "tram",
     "pivot-submode": "regionalTram",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 300,
+    "inter_stop_area_distance_max_mode": 2000,
+    "speed_max_mode": 50,
+    "speed_min_mode": 20,
+    "inter_stop_duration_variation_max_mode": 30
   }, {
     "mode": "tram",
     "submode": "sightseeingTram",
     "pivot": "tram",
     "pivot-submode": "sightseeingTram",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 300,
+    "inter_stop_area_distance_max_mode": 2000,
+    "speed_max_mode": 50,
+    "speed_min_mode": 20,
+    "inter_stop_duration_variation_max_mode": 30
   }, {
     "mode": "tram",
     "submode": "shuttleTram",
     "pivot": "tram",
     "pivot-submode": "shuttleTram",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 300,
+    "inter_stop_area_distance_max_mode": 2000,
+    "speed_max_mode": 50,
+    "speed_min_mode": 20,
+    "inter_stop_duration_variation_max_mode": 30
   }, {
     "mode": "tram",
     "submode": "trainTram",
     "pivot": "tram",
     "pivot-submode": "trainTram",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 300,
+    "inter_stop_area_distance_max_mode": 2000,
+    "speed_max_mode": 50,
+    "speed_min_mode": 20,
+    "inter_stop_duration_variation_max_mode": 30
   }, {
     "mode": "water",
     "submode": "unspecified",
     "pivot": "water",
     "pivot-submode": "unspecified",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 200,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 40,
+    "speed_min_mode": 5,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "mode": "water",
     "submode": "undefined",
     "pivot": "water",
     "pivot-submode": "undefined",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 200,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 40,
+    "speed_min_mode": 5,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "mode": "water",
     "submode": "unknown",
     "pivot": "water",
     "pivot-submode": "unknown",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 200,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 40,
+    "speed_min_mode": 5,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "mode": "water",
     "submode": "internationalCarFerry",
     "pivot": "water",
     "pivot-submode": "internationalCarFerry",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 200,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 40,
+    "speed_min_mode": 5,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "mode": "water",
     "submode": "nationalCarFerry",
     "pivot": "water",
     "pivot-submode": "nationalCarFerry",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 200,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 40,
+    "speed_min_mode": 5,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "mode": "water",
     "submode": "regionalCarFerry",
     "pivot": "water",
     "pivot-submode": "regionalCarFerry",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 200,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 40,
+    "speed_min_mode": 5,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "mode": "water",
     "submode": "localCarFerry",
     "pivot": "water",
     "pivot-submode": "localCarFerry",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 200,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 40,
+    "speed_min_mode": 5,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "mode": "water",
     "submode": "internationalPassengerFerry",
     "pivot": "water",
     "pivot-submode": "internationalPassengerFerry",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 200,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 40,
+    "speed_min_mode": 5,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "mode": "water",
     "submode": "nationalPassengerFerry",
     "pivot": "water",
     "pivot-submode": "nationalPassengerFerry",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 200,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 40,
+    "speed_min_mode": 5,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "mode": "water",
     "submode": "regionalPassengerFerry",
     "pivot": "water",
     "pivot-submode": "regionalPassengerFerry",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 200,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 40,
+    "speed_min_mode": 5,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "mode": "water",
     "submode": "localPassengerFerry",
     "pivot": "water",
     "pivot-submode": "localPassengerFerry",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 200,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 40,
+    "speed_min_mode": 5,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "mode": "water",
     "submode": "postBoat",
     "pivot": "water",
     "pivot-submode": "postBoat",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 200,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 40,
+    "speed_min_mode": 5,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "mode": "water",
     "submode": "trainFerry",
     "pivot": "water",
     "pivot-submode": "trainFerry",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 200,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 40,
+    "speed_min_mode": 5,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "mode": "water",
     "submode": "roadFerryLink",
     "pivot": "water",
     "pivot-submode": "roadFerryLink",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 200,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 40,
+    "speed_min_mode": 5,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "mode": "water",
     "submode": "airportBoatLink",
     "pivot": "water",
     "pivot-submode": "airportBoatLink",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 200,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 40,
+    "speed_min_mode": 5,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "mode": "water",
     "submode": "highSpeedVehicleService",
     "pivot": "water",
     "pivot-submode": "highSpeedVehicleService",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 200,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 40,
+    "speed_min_mode": 5,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "mode": "water",
     "submode": "highSpeedPassengerService",
     "pivot": "water",
     "pivot-submode": "highSpeedPassengerService",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 200,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 40,
+    "speed_min_mode": 5,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "mode": "water",
     "submode": "sightseeingService",
     "pivot": "water",
     "pivot-submode": "sightseeingService",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 200,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 40,
+    "speed_min_mode": 5,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "mode": "water",
     "submode": "schoolBoat",
     "pivot": "water",
     "pivot-submode": "schoolBoat",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 200,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 40,
+    "speed_min_mode": 5,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "mode": "water",
     "submode": "cableFerry",
     "pivot": "water",
     "pivot-submode": "cableFerry",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 200,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 40,
+    "speed_min_mode": 5,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "mode": "water",
     "submode": "riverBus",
     "pivot": "water",
     "pivot-submode": "riverBus",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 200,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 40,
+    "speed_min_mode": 5,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "mode": "water",
     "submode": "scheduledFerry",
     "pivot": "water",
     "pivot-submode": "scheduledFerry",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 200,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 40,
+    "speed_min_mode": 5,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "mode": "water",
     "submode": "shuttleFerryService",
     "pivot": "water",
     "pivot-submode": "shuttleFerryService",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 200,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 40,
+    "speed_min_mode": 5,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "mode": "cableway",
     "submode": "unspecified",
     "pivot": "cableway",
     "pivot-submode": "unspecified",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 300,
+    "inter_stop_area_distance_max_mode": 30000,
+    "speed_max_mode": 40,
+    "speed_min_mode": 10,
+    "inter_stop_duration_variation_max_mode": 10
   }, {
     "mode": "cableway",
     "submode": "undefined",
     "pivot": "cableway",
     "pivot-submode": "undefined",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 300,
+    "inter_stop_area_distance_max_mode": 30000,
+    "speed_max_mode": 40,
+    "speed_min_mode": 10,
+    "inter_stop_duration_variation_max_mode": 10
   }, {
     "mode": "cableway",
     "submode": "unknown",
     "pivot": "cableway",
     "pivot-submode": "unknown",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 300,
+    "inter_stop_area_distance_max_mode": 30000,
+    "speed_max_mode": 40,
+    "speed_min_mode": 10,
+    "inter_stop_duration_variation_max_mode": 10
   }, {
     "mode": "cableway",
     "submode": "telecabin",
     "pivot": "cableway",
     "pivot-submode": "telecabin",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 300,
+    "inter_stop_area_distance_max_mode": 30000,
+    "speed_max_mode": 40,
+    "speed_min_mode": 10,
+    "inter_stop_duration_variation_max_mode": 10
   }, {
     "mode": "cableway",
     "submode": "cableCar",
     "pivot": "cableway",
     "pivot-submode": "cableCar",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 300,
+    "inter_stop_area_distance_max_mode": 30000,
+    "speed_max_mode": 40,
+    "speed_min_mode": 10,
+    "inter_stop_duration_variation_max_mode": 10
   }, {
     "mode": "cableway",
     "submode": "lift",
     "pivot": "cableway",
     "pivot-submode": "lift",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 300,
+    "inter_stop_area_distance_max_mode": 30000,
+    "speed_max_mode": 40,
+    "speed_min_mode": 10,
+    "inter_stop_duration_variation_max_mode": 10
   }, {
     "mode": "cableway",
     "submode": "chairLift",
     "pivot": "cableway",
     "pivot-submode": "chairLift",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 300,
+    "inter_stop_area_distance_max_mode": 30000,
+    "speed_max_mode": 40,
+    "speed_min_mode": 10,
+    "inter_stop_duration_variation_max_mode": 10
   }, {
     "mode": "cableway",
     "submode": "dragLift",
     "pivot": "cableway",
     "pivot-submode": "dragLift",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 300,
+    "inter_stop_area_distance_max_mode": 30000,
+    "speed_max_mode": 40,
+    "speed_min_mode": 10,
+    "inter_stop_duration_variation_max_mode": 10
   }, {
     "mode": "cableway",
     "submode": "telecabinLink",
     "pivot": "cableway",
     "pivot-submode": "telecabinLink",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 300,
+    "inter_stop_area_distance_max_mode": 30000,
+    "speed_max_mode": 40,
+    "speed_min_mode": 10,
+    "inter_stop_duration_variation_max_mode": 10
   }, {
     "mode": "funicular",
     "submode": "unspecified",
     "pivot": "funicular",
     "pivot-submode": "unspecified",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 300,
+    "inter_stop_area_distance_max_mode": 30000,
+    "speed_max_mode": 40,
+    "speed_min_mode": 10,
+    "inter_stop_duration_variation_max_mode": 10
   }, {
     "mode": "funicular",
     "submode": "unknown",
     "pivot": "funicular",
     "pivot-submode": "unknown",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 300,
+    "inter_stop_area_distance_max_mode": 30000,
+    "speed_max_mode": 40,
+    "speed_min_mode": 10,
+    "inter_stop_duration_variation_max_mode": 10
   }, {
     "mode": "funicular",
     "submode": "funicular",
     "pivot": "funicular",
     "pivot-submode": "funicular",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 300,
+    "inter_stop_area_distance_max_mode": 30000,
+    "speed_max_mode": 40,
+    "speed_min_mode": 10,
+    "inter_stop_duration_variation_max_mode": 10
   }, {
     "mode": "funicular",
     "submode": "streetCableCar",
     "pivot": "funicular",
     "pivot-submode": "streetCableCar",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 300,
+    "inter_stop_area_distance_max_mode": 30000,
+    "speed_max_mode": 40,
+    "speed_min_mode": 10,
+    "inter_stop_duration_variation_max_mode": 10
   }, {
     "mode": "funicular",
     "submode": "allFunicularServices",
     "pivot": "funicular",
     "pivot-submode": "allFunicularServices",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 300,
+    "inter_stop_area_distance_max_mode": 30000,
+    "speed_max_mode": 40,
+    "speed_min_mode": 10,
+    "inter_stop_duration_variation_max_mode": 10
   }, {
     "mode": "funicular",
     "submode": "undefinedFunicular",
     "pivot": "funicular",
     "pivot-submode": "undefined",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 300,
+    "inter_stop_area_distance_max_mode": 30000,
+    "speed_max_mode": 40,
+    "speed_min_mode": 10,
+    "inter_stop_duration_variation_max_mode": 10
   }, {
     "mode": "other",
     "submode": "unspecified",
     "pivot": "other",
     "pivot-submode": "unspecified",
     "default": true,
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 1,
+    "inter_stop_area_distance_max_mode": 10000,
+    "speed_max_mode": 6,
+    "speed_min_mode": 1,
+    "inter_stop_duration_variation_max_mode": 10
   }
 ]

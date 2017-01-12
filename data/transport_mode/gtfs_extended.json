@@ -6,7 +6,13 @@
     "pivot": "rail",
     "pivot-submode": "unspecified",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 2000,
+    "inter_stop_area_distance_max_mode": 500000,
+    "speed_max_mode": 300,
+    "speed_min_mode": 20,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "code": "101",
     "mode": "Railway Service",
@@ -14,7 +20,13 @@
     "pivot": "rail",
     "pivot-submode": "highSpeedRail",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 2000,
+    "inter_stop_area_distance_max_mode": 500000,
+    "speed_max_mode": 300,
+    "speed_min_mode": 20,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "code": "102",
     "mode": "Railway Service",
@@ -22,7 +34,13 @@
     "pivot": "rail",
     "pivot-submode": "longDistance",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 2000,
+    "inter_stop_area_distance_max_mode": 500000,
+    "speed_max_mode": 300,
+    "speed_min_mode": 20,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "code": "103",
     "mode": "Railway Service",
@@ -30,7 +48,13 @@
     "pivot": "rail",
     "pivot-submode": "interregionalRail",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 2000,
+    "inter_stop_area_distance_max_mode": 500000,
+    "speed_max_mode": 300,
+    "speed_min_mode": 20,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "code": "104",
     "mode": "Railway Service",
@@ -38,7 +62,13 @@
     "pivot": "rail",
     "pivot-submode": "carTransportRailService",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 2000,
+    "inter_stop_area_distance_max_mode": 500000,
+    "speed_max_mode": 300,
+    "speed_min_mode": 20,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "code": "105",
     "mode": "Railway Service",
@@ -46,7 +76,13 @@
     "pivot": "rail",
     "pivot-submode": "sleeperRailService",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 2000,
+    "inter_stop_area_distance_max_mode": 500000,
+    "speed_max_mode": 300,
+    "speed_min_mode": 20,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "code": "106",
     "mode": "Railway Service",
@@ -54,7 +90,13 @@
     "pivot": "rail",
     "pivot-submode": "regionalRail",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 2000,
+    "inter_stop_area_distance_max_mode": 500000,
+    "speed_max_mode": 300,
+    "speed_min_mode": 20,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "code": "107",
     "mode": "Railway Service",
@@ -62,7 +104,13 @@
     "pivot": "rail",
     "pivot-submode": "touristRailway",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 2000,
+    "inter_stop_area_distance_max_mode": 500000,
+    "speed_max_mode": 300,
+    "speed_min_mode": 20,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "code": "108",
     "mode": "Railway Service",
@@ -70,7 +118,13 @@
     "pivot": "rail",
     "pivot-submode": "railShuttle",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 2000,
+    "inter_stop_area_distance_max_mode": 500000,
+    "speed_max_mode": 300,
+    "speed_min_mode": 20,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "code": "109",
     "mode": "Railway Service",
@@ -78,7 +132,13 @@
     "pivot": "rail",
     "pivot-submode": "suburbanRailway",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 2000,
+    "inter_stop_area_distance_max_mode": 500000,
+    "speed_max_mode": 300,
+    "speed_min_mode": 20,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "code": "110",
     "mode": "Railway Service",
@@ -86,7 +146,13 @@
     "pivot": "rail",
     "pivot-submode": "replacementRailService",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 2000,
+    "inter_stop_area_distance_max_mode": 500000,
+    "speed_max_mode": 300,
+    "speed_min_mode": 20,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "code": "111",
     "mode": "Railway Service",
@@ -94,7 +160,13 @@
     "pivot": "rail",
     "pivot-submode": "specialTrain",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 2000,
+    "inter_stop_area_distance_max_mode": 500000,
+    "speed_max_mode": 300,
+    "speed_min_mode": 20,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "code": "112",
     "mode": "Railway Service",
@@ -102,7 +174,13 @@
     "pivot": "rail",
     "pivot-submode": "carTransportRailService",
     "default": "",
-    "reversible": ""
+    "reversible": "",
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 2000,
+    "inter_stop_area_distance_max_mode": 500000,
+    "speed_max_mode": 300,
+    "speed_min_mode": 20,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "code": "113",
     "mode": "Railway Service",
@@ -110,7 +188,13 @@
     "pivot": "rail",
     "pivot-submode": "undefined",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 2000,
+    "inter_stop_area_distance_max_mode": 500000,
+    "speed_max_mode": 300,
+    "speed_min_mode": 20,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "code": "114",
     "mode": "Railway Service",
@@ -118,7 +202,13 @@
     "pivot": "rail",
     "pivot-submode": "intermational",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 2000,
+    "inter_stop_area_distance_max_mode": 500000,
+    "speed_max_mode": 300,
+    "speed_min_mode": 20,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "code": "115",
     "mode": "Railway Service",
@@ -126,7 +216,13 @@
     "pivot": "rail",
     "pivot-submode": "carTransportRailService",
     "default": "",
-    "reversible": ""
+    "reversible": "",
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 2000,
+    "inter_stop_area_distance_max_mode": 500000,
+    "speed_max_mode": 300,
+    "speed_min_mode": 20,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "code": "116",
     "mode": "Railway Service",
@@ -134,7 +230,13 @@
     "pivot": "rail",
     "pivot-submode": "rackAndPinionRailway",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 2000,
+    "inter_stop_area_distance_max_mode": 500000,
+    "speed_max_mode": 300,
+    "speed_min_mode": 20,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "code": "117",
     "mode": "Railway Service",
@@ -142,7 +244,13 @@
     "pivot": "rail",
     "pivot-submode": "unspecified",
     "default": "",
-    "reversible": ""
+    "reversible": "",
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 2000,
+    "inter_stop_area_distance_max_mode": 500000,
+    "speed_max_mode": 300,
+    "speed_min_mode": 20,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "code": "200",
     "mode": "Coach Service",
@@ -150,7 +258,13 @@
     "pivot": "coach",
     "pivot-submode": "unspecified",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 500,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 90,
+    "speed_min_mode": 40,
+    "inter_stop_duration_variation_max_mode": 20
   }, {
     "code": "201",
     "mode": "Coach Service",
@@ -158,7 +272,13 @@
     "pivot": "coach",
     "pivot-submode": "internationalCoach",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 500,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 90,
+    "speed_min_mode": 40,
+    "inter_stop_duration_variation_max_mode": 20
   }, {
     "code": "202",
     "mode": "Coach Service",
@@ -166,7 +286,13 @@
     "pivot": "coach",
     "pivot-submode": "nationalCoach",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 500,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 90,
+    "speed_min_mode": 40,
+    "inter_stop_duration_variation_max_mode": 20
   }, {
     "code": "203",
     "mode": "Coach Service",
@@ -174,7 +300,13 @@
     "pivot": "coach",
     "pivot-submode": "shuttleCoach",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 500,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 90,
+    "speed_min_mode": 40,
+    "inter_stop_duration_variation_max_mode": 20
   }, {
     "code": "204",
     "mode": "Coach Service",
@@ -182,7 +314,13 @@
     "pivot": "coach",
     "pivot-submode": "regionalCoach",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 500,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 90,
+    "speed_min_mode": 40,
+    "inter_stop_duration_variation_max_mode": 20
   }, {
     "code": "205",
     "mode": "Coach Service",
@@ -190,7 +328,13 @@
     "pivot": "coach",
     "pivot-submode": "specialCoach",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 500,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 90,
+    "speed_min_mode": 40,
+    "inter_stop_duration_variation_max_mode": 20
   }, {
     "code": "206",
     "mode": "Coach Service",
@@ -198,7 +342,13 @@
     "pivot": "coach",
     "pivot-submode": "sightseeingCoach",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 500,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 90,
+    "speed_min_mode": 40,
+    "inter_stop_duration_variation_max_mode": 20
   }, {
     "code": "207",
     "mode": "Coach Service",
@@ -206,7 +356,13 @@
     "pivot": "coach",
     "pivot-submode": "touristCoach",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 500,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 90,
+    "speed_min_mode": 40,
+    "inter_stop_duration_variation_max_mode": 20
   }, {
     "code": "208",
     "mode": "Coach Service",
@@ -214,7 +370,13 @@
     "pivot": "coach",
     "pivot-submode": "commuterCoach",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 500,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 90,
+    "speed_min_mode": 40,
+    "inter_stop_duration_variation_max_mode": 20
   }, {
     "code": "209",
     "mode": "Coach Service",
@@ -222,7 +384,13 @@
     "pivot": "coach",
     "pivot-submode": "undefined",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 500,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 90,
+    "speed_min_mode": 40,
+    "inter_stop_duration_variation_max_mode": 20
   }, {
     "code": "300",
     "mode": "Suburban Railway Service",
@@ -230,7 +398,13 @@
     "pivot": "rail",
     "pivot-submode": "suburbanRailway",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 2000,
+    "inter_stop_area_distance_max_mode": 500000,
+    "speed_max_mode": 300,
+    "speed_min_mode": 20,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "code": "400",
     "mode": "Urban Railway Service",
@@ -238,7 +412,13 @@
     "pivot": "metro",
     "pivot-submode": "unspecified",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 300,
+    "inter_stop_area_distance_max_mode": 2000,
+    "speed_max_mode": 60,
+    "speed_min_mode": 30,
+    "inter_stop_duration_variation_max_mode": 30
   }, {
     "code": "401",
     "mode": "Urban Railway Service",
@@ -246,7 +426,13 @@
     "pivot": "metro",
     "pivot-submode": "metro",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 300,
+    "inter_stop_area_distance_max_mode": 2000,
+    "speed_max_mode": 60,
+    "speed_min_mode": 30,
+    "inter_stop_duration_variation_max_mode": 30
   }, {
     "code": "402",
     "mode": "Urban Railway Service",
@@ -254,7 +440,13 @@
     "pivot": "metro",
     "pivot-submode": "tube",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 300,
+    "inter_stop_area_distance_max_mode": 2000,
+    "speed_max_mode": 60,
+    "speed_min_mode": 30,
+    "inter_stop_duration_variation_max_mode": 30
   }, {
     "code": "403",
     "mode": "Urban Railway Service",
@@ -262,7 +454,13 @@
     "pivot": "metro",
     "pivot-submode": "urbanRailway",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 300,
+    "inter_stop_area_distance_max_mode": 2000,
+    "speed_max_mode": 60,
+    "speed_min_mode": 30,
+    "inter_stop_duration_variation_max_mode": 30
   }, {
     "code": "404",
     "mode": "Urban Railway Service",
@@ -270,7 +468,13 @@
     "pivot": "metro",
     "pivot-submode": "undefined",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 300,
+    "inter_stop_area_distance_max_mode": 2000,
+    "speed_max_mode": 60,
+    "speed_min_mode": 30,
+    "inter_stop_duration_variation_max_mode": 30
   }, {
     "code": "405",
     "mode": "Urban Railway Service",
@@ -278,7 +482,13 @@
     "pivot": "metro",
     "pivot-submode": "monorail",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 300,
+    "inter_stop_area_distance_max_mode": 2000,
+    "speed_max_mode": 60,
+    "speed_min_mode": 30,
+    "inter_stop_duration_variation_max_mode": 30
   }, {
     "code": "500",
     "mode": "Metro Service",
@@ -286,7 +496,13 @@
     "pivot": "metro",
     "pivot-submode": "metro",
     "default": "",
-    "reversible": ""
+    "reversible": "",
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 300,
+    "inter_stop_area_distance_max_mode": 2000,
+    "speed_max_mode": 60,
+    "speed_min_mode": 30,
+    "inter_stop_duration_variation_max_mode": 30
   }, {
     "code": "600",
     "mode": "Underground Service",
@@ -294,7 +510,13 @@
     "pivot": "metro",
     "pivot-submode": "tube",
     "default": "",
-    "reversible": ""
+    "reversible": "",
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 300,
+    "inter_stop_area_distance_max_mode": 2000,
+    "speed_max_mode": 60,
+    "speed_min_mode": 30,
+    "inter_stop_duration_variation_max_mode": 30
   }, {
     "code": "700",
     "mode": "BusService",
@@ -302,7 +524,13 @@
     "pivot": "bus",
     "pivot-submode": "unspecified",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 100,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 60,
+    "speed_min_mode": 10,
+    "inter_stop_duration_variation_max_mode": 15
   }, {
     "code": "701",
     "mode": "BusService",
@@ -310,7 +538,13 @@
     "pivot": "bus",
     "pivot-submode": "regionalBus",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 100,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 60,
+    "speed_min_mode": 10,
+    "inter_stop_duration_variation_max_mode": 15
   }, {
     "code": "702",
     "mode": "BusService",
@@ -318,7 +552,13 @@
     "pivot": "bus",
     "pivot-submode": "expressBus",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 100,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 60,
+    "speed_min_mode": 10,
+    "inter_stop_duration_variation_max_mode": 15
   }, {
     "code": "703",
     "mode": "BusService",
@@ -326,7 +566,13 @@
     "pivot": "bus",
     "pivot-submode": "unspecified",
     "default": "",
-    "reversible": ""
+    "reversible": "",
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 100,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 60,
+    "speed_min_mode": 10,
+    "inter_stop_duration_variation_max_mode": 15
   }, {
     "code": "704",
     "mode": "BusService",
@@ -334,7 +580,13 @@
     "pivot": "bus",
     "pivot-submode": "localBus",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 100,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 60,
+    "speed_min_mode": 10,
+    "inter_stop_duration_variation_max_mode": 15
   }, {
     "code": "705",
     "mode": "BusService",
@@ -342,7 +594,13 @@
     "pivot": "bus",
     "pivot-submode": "nightBus",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 100,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 60,
+    "speed_min_mode": 10,
+    "inter_stop_duration_variation_max_mode": 15
   }, {
     "code": "706",
     "mode": "BusService",
@@ -350,7 +608,13 @@
     "pivot": "bus",
     "pivot-submode": "postBus",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 100,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 60,
+    "speed_min_mode": 10,
+    "inter_stop_duration_variation_max_mode": 15
   }, {
     "code": "707",
     "mode": "BusService",
@@ -358,7 +622,13 @@
     "pivot": "bus",
     "pivot-submode": "specialNeedsBus",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 100,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 60,
+    "speed_min_mode": 10,
+    "inter_stop_duration_variation_max_mode": 15
   }, {
     "code": "708",
     "mode": "BusService",
@@ -366,7 +636,13 @@
     "pivot": "bus",
     "pivot-submode": "mobilityBus",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 100,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 60,
+    "speed_min_mode": 10,
+    "inter_stop_duration_variation_max_mode": 15
   }, {
     "code": "709",
     "mode": "BusService",
@@ -374,7 +650,13 @@
     "pivot": "bus",
     "pivot-submode": "mobilityBusForRegisteredDisabled",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 100,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 60,
+    "speed_min_mode": 10,
+    "inter_stop_duration_variation_max_mode": 15
   }, {
     "code": "710",
     "mode": "BusService",
@@ -382,7 +664,13 @@
     "pivot": "bus",
     "pivot-submode": "sightseeingBus",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 100,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 60,
+    "speed_min_mode": 10,
+    "inter_stop_duration_variation_max_mode": 15
   }, {
     "code": "711",
     "mode": "BusService",
@@ -390,7 +678,13 @@
     "pivot": "bus",
     "pivot-submode": "shuttleBus",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 100,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 60,
+    "speed_min_mode": 10,
+    "inter_stop_duration_variation_max_mode": 15
   }, {
     "code": "712",
     "mode": "BusService",
@@ -398,7 +692,13 @@
     "pivot": "bus",
     "pivot-submode": "schoolBus",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 100,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 60,
+    "speed_min_mode": 10,
+    "inter_stop_duration_variation_max_mode": 15
   }, {
     "code": "713",
     "mode": "BusService",
@@ -406,7 +706,13 @@
     "pivot": "bus",
     "pivot-submode": "schoolAndPublicServiceBus",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 100,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 60,
+    "speed_min_mode": 10,
+    "inter_stop_duration_variation_max_mode": 15
   }, {
     "code": "714",
     "mode": "BusService",
@@ -414,7 +720,13 @@
     "pivot": "bus",
     "pivot-submode": "railReplacementBus",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 100,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 60,
+    "speed_min_mode": 10,
+    "inter_stop_duration_variation_max_mode": 15
   }, {
     "code": "715",
     "mode": "BusService",
@@ -422,7 +734,13 @@
     "pivot": "bus",
     "pivot-submode": "demandAndResponseBus",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 100,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 60,
+    "speed_min_mode": 10,
+    "inter_stop_duration_variation_max_mode": 15
   }, {
     "code": "716",
     "mode": "BusService",
@@ -430,7 +748,13 @@
     "pivot": "bus",
     "pivot-submode": "undefined",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 100,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 60,
+    "speed_min_mode": 10,
+    "inter_stop_duration_variation_max_mode": 15
   }, {
     "code": "800",
     "mode": "Trolleybus Service",
@@ -438,7 +762,13 @@
     "pivot": "trolleyBus",
     "pivot-submode": "unspecified",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 300,
+    "inter_stop_area_distance_max_mode": 2000,
+    "speed_max_mode": 50,
+    "speed_min_mode": 20,
+    "inter_stop_duration_variation_max_mode": 30
   }, {
     "code": "900",
     "mode": "Tram Service",
@@ -446,7 +776,13 @@
     "pivot": "tram",
     "pivot-submode": "unspecified",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 300,
+    "inter_stop_area_distance_max_mode": 2000,
+    "speed_max_mode": 50,
+    "speed_min_mode": 20,
+    "inter_stop_duration_variation_max_mode": 30
   }, {
     "code": "901",
     "mode": "Tram Service",
@@ -454,7 +790,13 @@
     "pivot": "tram",
     "pivot-submode": "cityTram",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 300,
+    "inter_stop_area_distance_max_mode": 2000,
+    "speed_max_mode": 50,
+    "speed_min_mode": 20,
+    "inter_stop_duration_variation_max_mode": 30
   }, {
     "code": "902",
     "mode": "Tram Service",
@@ -462,7 +804,13 @@
     "pivot": "tram",
     "pivot-submode": "localTram",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 300,
+    "inter_stop_area_distance_max_mode": 2000,
+    "speed_max_mode": 50,
+    "speed_min_mode": 20,
+    "inter_stop_duration_variation_max_mode": 30
   }, {
     "code": "903",
     "mode": "Tram Service",
@@ -470,7 +818,13 @@
     "pivot": "tram",
     "pivot-submode": "regionalTram",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 300,
+    "inter_stop_area_distance_max_mode": 2000,
+    "speed_max_mode": 50,
+    "speed_min_mode": 20,
+    "inter_stop_duration_variation_max_mode": 30
   }, {
     "code": "904",
     "mode": "Tram Service",
@@ -478,7 +832,13 @@
     "pivot": "tram",
     "pivot-submode": "sightseeingTram",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 300,
+    "inter_stop_area_distance_max_mode": 2000,
+    "speed_max_mode": 50,
+    "speed_min_mode": 20,
+    "inter_stop_duration_variation_max_mode": 30
   }, {
     "code": "905",
     "mode": "Tram Service",
@@ -486,7 +846,13 @@
     "pivot": "tram",
     "pivot-submode": "shuttleTram",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 300,
+    "inter_stop_area_distance_max_mode": 2000,
+    "speed_max_mode": 50,
+    "speed_min_mode": 20,
+    "inter_stop_duration_variation_max_mode": 30
   }, {
     "code": "906",
     "mode": "Tram Service",
@@ -494,7 +860,13 @@
     "pivot": "tram",
     "pivot-submode": "undefined",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 300,
+    "inter_stop_area_distance_max_mode": 2000,
+    "speed_max_mode": 50,
+    "speed_min_mode": 20,
+    "inter_stop_duration_variation_max_mode": 30
   }, {
     "code": "1000",
     "mode": "Water Transport Service",
@@ -502,7 +874,13 @@
     "pivot": "water",
     "pivot-submode": "unspecified",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 200,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 40,
+    "speed_min_mode": 5,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "code": "1001",
     "mode": "Water Transport Service",
@@ -510,7 +888,13 @@
     "pivot": "water",
     "pivot-submode": "internationalCarFerry",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 200,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 40,
+    "speed_min_mode": 5,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "code": "1002",
     "mode": "Water Transport Service",
@@ -518,7 +902,13 @@
     "pivot": "water",
     "pivot-submode": "nationalCarFerry",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 200,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 40,
+    "speed_min_mode": 5,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "code": "1003",
     "mode": "Water Transport Service",
@@ -526,7 +916,13 @@
     "pivot": "water",
     "pivot-submode": "regionalCarFerry",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 200,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 40,
+    "speed_min_mode": 5,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "code": "1004",
     "mode": "Water Transport Service",
@@ -534,7 +930,13 @@
     "pivot": "water",
     "pivot-submode": "localCarFerry",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 200,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 40,
+    "speed_min_mode": 5,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "code": "1005",
     "mode": "Water Transport Service",
@@ -542,7 +944,13 @@
     "pivot": "water",
     "pivot-submode": "internationalPassengerFerry",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 200,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 40,
+    "speed_min_mode": 5,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "code": "1006",
     "mode": "Water Transport Service",
@@ -550,7 +958,13 @@
     "pivot": "water",
     "pivot-submode": "nationalPassengerFerry",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 200,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 40,
+    "speed_min_mode": 5,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "code": "1007",
     "mode": "Water Transport Service",
@@ -558,7 +972,13 @@
     "pivot": "water",
     "pivot-submode": "regionalPassengerFerry",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 200,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 40,
+    "speed_min_mode": 5,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "code": "1008",
     "mode": "Water Transport Service",
@@ -566,7 +986,13 @@
     "pivot": "water",
     "pivot-submode": "localPassengerFerry",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 200,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 40,
+    "speed_min_mode": 5,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "code": "1009",
     "mode": "Water Transport Service",
@@ -574,7 +1000,13 @@
     "pivot": "water",
     "pivot-submode": "postBoat",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 200,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 40,
+    "speed_min_mode": 5,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "code": "1010",
     "mode": "Water Transport Service",
@@ -582,7 +1014,13 @@
     "pivot": "water",
     "pivot-submode": "trainFerry",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 200,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 40,
+    "speed_min_mode": 5,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "code": "1011",
     "mode": "Water Transport Service",
@@ -590,7 +1028,13 @@
     "pivot": "water",
     "pivot-submode": "roadFerryLink",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 200,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 40,
+    "speed_min_mode": 5,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "code": "1012",
     "mode": "Water Transport Service",
@@ -598,7 +1042,13 @@
     "pivot": "water",
     "pivot-submode": "airportBoatLink",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 200,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 40,
+    "speed_min_mode": 5,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "code": "1013",
     "mode": "Water Transport Service",
@@ -606,7 +1056,13 @@
     "pivot": "water",
     "pivot-submode": "highSpeedVehicleService",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 200,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 40,
+    "speed_min_mode": 5,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "code": "1014",
     "mode": "Water Transport Service",
@@ -614,7 +1070,13 @@
     "pivot": "water",
     "pivot-submode": "highSpeedPassengerService",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 200,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 40,
+    "speed_min_mode": 5,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "code": "1015",
     "mode": "Water Transport Service",
@@ -622,7 +1084,13 @@
     "pivot": "water",
     "pivot-submode": "sightseeingService",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 200,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 40,
+    "speed_min_mode": 5,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "code": "1016",
     "mode": "Water Transport Service",
@@ -630,7 +1098,13 @@
     "pivot": "water",
     "pivot-submode": "schoolBoat",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 200,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 40,
+    "speed_min_mode": 5,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "code": "1017",
     "mode": "Water Transport Service",
@@ -638,7 +1112,13 @@
     "pivot": "water",
     "pivot-submode": "cableFerry",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 200,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 40,
+    "speed_min_mode": 5,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "code": "1018",
     "mode": "Water Transport Service",
@@ -646,7 +1126,13 @@
     "pivot": "water",
     "pivot-submode": "riverBus",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 200,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 40,
+    "speed_min_mode": 5,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "code": "1019",
     "mode": "Water Transport Service",
@@ -654,7 +1140,13 @@
     "pivot": "water",
     "pivot-submode": "scheduledFerry",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 200,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 40,
+    "speed_min_mode": 5,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "code": "1020",
     "mode": "Water Transport Service",
@@ -662,7 +1154,13 @@
     "pivot": "water",
     "pivot-submode": "shuttleFerryService",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 200,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 40,
+    "speed_min_mode": 5,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "code": "1021",
     "mode": "Water Transport Service",
@@ -670,7 +1168,13 @@
     "pivot": "water",
     "pivot-submode": "undefined",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 200,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 40,
+    "speed_min_mode": 5,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "code": "1100",
     "mode": "Air Service",
@@ -678,7 +1182,13 @@
     "pivot": "air",
     "pivot-submode": "unspecified",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 200,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 800,
+    "speed_min_mode": 700,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "code": "1101",
     "mode": "Air Service",
@@ -686,7 +1196,13 @@
     "pivot": "air",
     "pivot-submode": "internationalFlight",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 200,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 800,
+    "speed_min_mode": 700,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "code": "1102",
     "mode": "Air Service",
@@ -694,7 +1210,13 @@
     "pivot": "air",
     "pivot-submode": "domesticFlight",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 200,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 800,
+    "speed_min_mode": 700,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "code": "1103",
     "mode": "Air Service",
@@ -702,7 +1224,13 @@
     "pivot": "air",
     "pivot-submode": "intercontinentalFlight",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 200,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 800,
+    "speed_min_mode": 700,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "code": "1104",
     "mode": "Air Service",
@@ -710,7 +1238,13 @@
     "pivot": "air",
     "pivot-submode": "domesticScheduledFlight",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 200,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 800,
+    "speed_min_mode": 700,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "code": "1105",
     "mode": "Air Service",
@@ -718,7 +1252,13 @@
     "pivot": "air",
     "pivot-submode": "shuttleFlight",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 200,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 800,
+    "speed_min_mode": 700,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "code": "1106",
     "mode": "Air Service",
@@ -726,7 +1266,13 @@
     "pivot": "air",
     "pivot-submode": "intercontinentalCharterFlight",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 200,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 800,
+    "speed_min_mode": 700,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "code": "1107",
     "mode": "Air Service",
@@ -734,7 +1280,13 @@
     "pivot": "air",
     "pivot-submode": "internationalCharterFlight",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 200,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 800,
+    "speed_min_mode": 700,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "code": "1108",
     "mode": "Air Service",
@@ -742,7 +1294,13 @@
     "pivot": "air",
     "pivot-submode": "roundTripCharterFlight",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 200,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 800,
+    "speed_min_mode": 700,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "code": "1109",
     "mode": "Air Service",
@@ -750,7 +1308,13 @@
     "pivot": "air",
     "pivot-submode": "sightseeingFlight",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 200,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 800,
+    "speed_min_mode": 700,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "code": "1110",
     "mode": "Air Service",
@@ -758,7 +1322,13 @@
     "pivot": "air",
     "pivot-submode": "helicopterService",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 200,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 800,
+    "speed_min_mode": 700,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "code": "1111",
     "mode": "Air Service",
@@ -766,7 +1336,13 @@
     "pivot": "air",
     "pivot-submode": "domesticCharterFlight",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 200,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 800,
+    "speed_min_mode": 700,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "code": "1112",
     "mode": "Air Service",
@@ -774,7 +1350,13 @@
     "pivot": "air",
     "pivot-submode": "SchengenAreaFlight",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 200,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 800,
+    "speed_min_mode": 700,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "code": "1113",
     "mode": "Air Service",
@@ -782,7 +1364,13 @@
     "pivot": "air",
     "pivot-submode": "airshipService",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 200,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 800,
+    "speed_min_mode": 700,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "code": "1114",
     "mode": "Air Service",
@@ -790,7 +1378,13 @@
     "pivot": "air",
     "pivot-submode": "undefined",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 200,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 800,
+    "speed_min_mode": 700,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "code": "1200",
     "mode": "Ferry Service",
@@ -798,7 +1392,13 @@
     "pivot": "ferry",
     "pivot-submode": "unspecified",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 200,
+    "inter_stop_area_distance_max_mode": 1000,
+    "speed_max_mode": 40,
+    "speed_min_mode": 5,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "code": "1300",
     "mode": "Telecabin Service",
@@ -806,7 +1406,13 @@
     "pivot": "cableway",
     "pivot-submode": "unspecified",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 300,
+    "inter_stop_area_distance_max_mode": 30000,
+    "speed_max_mode": 40,
+    "speed_min_mode": 10,
+    "inter_stop_duration_variation_max_mode": 10
   }, {
     "code": "1301",
     "mode": "Telecabin Service",
@@ -814,7 +1420,13 @@
     "pivot": "cableway",
     "pivot-submode": "telecabin",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 300,
+    "inter_stop_area_distance_max_mode": 30000,
+    "speed_max_mode": 40,
+    "speed_min_mode": 10,
+    "inter_stop_duration_variation_max_mode": 10
   }, {
     "code": "1302",
     "mode": "Telecabin Service",
@@ -822,7 +1434,13 @@
     "pivot": "cableway",
     "pivot-submode": "cableCar",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 300,
+    "inter_stop_area_distance_max_mode": 30000,
+    "speed_max_mode": 40,
+    "speed_min_mode": 10,
+    "inter_stop_duration_variation_max_mode": 10
   }, {
     "code": "1303",
     "mode": "Telecabin Service",
@@ -830,7 +1448,13 @@
     "pivot": "cableway",
     "pivot-submode": "lift",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 300,
+    "inter_stop_area_distance_max_mode": 30000,
+    "speed_max_mode": 40,
+    "speed_min_mode": 10,
+    "inter_stop_duration_variation_max_mode": 10
   }, {
     "code": "1304",
     "mode": "Telecabin Service",
@@ -838,7 +1462,13 @@
     "pivot": "cableway",
     "pivot-submode": "chairLift",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 300,
+    "inter_stop_area_distance_max_mode": 30000,
+    "speed_max_mode": 40,
+    "speed_min_mode": 10,
+    "inter_stop_duration_variation_max_mode": 10
   }, {
     "code": "1305",
     "mode": "Telecabin Service",
@@ -846,7 +1476,13 @@
     "pivot": "cableway",
     "pivot-submode": "dragLift",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 300,
+    "inter_stop_area_distance_max_mode": 30000,
+    "speed_max_mode": 40,
+    "speed_min_mode": 10,
+    "inter_stop_duration_variation_max_mode": 10
   }, {
     "code": "1306",
     "mode": "Telecabin Service",
@@ -854,7 +1490,13 @@
     "pivot": "cableway",
     "pivot-submode": "telecabinLink",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 300,
+    "inter_stop_area_distance_max_mode": 30000,
+    "speed_max_mode": 40,
+    "speed_min_mode": 10,
+    "inter_stop_duration_variation_max_mode": 10
   }, {
     "code": "1307",
     "mode": "Telecabin Service",
@@ -862,7 +1504,13 @@
     "pivot": "cableway",
     "pivot-submode": "undefined",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 300,
+    "inter_stop_area_distance_max_mode": 30000,
+    "speed_max_mode": 40,
+    "speed_min_mode": 10,
+    "inter_stop_duration_variation_max_mode": 10
   }, {
     "code": "1400",
     "mode": "Funicular Service",
@@ -870,7 +1518,13 @@
     "pivot": "funicular",
     "pivot-submode": "unspecified",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 300,
+    "inter_stop_area_distance_max_mode": 30000,
+    "speed_max_mode": 40,
+    "speed_min_mode": 10,
+    "inter_stop_duration_variation_max_mode": 10
   }, {
     "code": "1401",
     "mode": "Funicular Service",
@@ -878,7 +1532,13 @@
     "pivot": "funicular",
     "pivot-submode": "funicular",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 300,
+    "inter_stop_area_distance_max_mode": 30000,
+    "speed_max_mode": 40,
+    "speed_min_mode": 10,
+    "inter_stop_duration_variation_max_mode": 10
   }, {
     "code": "1402",
     "mode": "Funicular Service",
@@ -886,7 +1546,13 @@
     "pivot": "funicular",
     "pivot-submode": "undefined",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 300,
+    "inter_stop_area_distance_max_mode": 30000,
+    "speed_max_mode": 40,
+    "speed_min_mode": 10,
+    "inter_stop_duration_variation_max_mode": 10
   }, {
     "code": "1500",
     "mode": "Taxi Service",
@@ -894,7 +1560,13 @@
     "pivot": "Taxi",
     "pivot-submode": "unspecified",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 500,
+    "inter_stop_area_distance_max_mode": 300000,
+    "speed_max_mode": 130,
+    "speed_min_mode": 20,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "code": "1501",
     "mode": "Taxi Service",
@@ -902,7 +1574,13 @@
     "pivot": "Taxi",
     "pivot-submode": "unspecified",
     "default": "",
-    "reversible": ""
+    "reversible": "",
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 500,
+    "inter_stop_area_distance_max_mode": 300000,
+    "speed_max_mode": 130,
+    "speed_min_mode": 20,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "code": "1502",
     "mode": "Taxi Service",
@@ -910,7 +1588,13 @@
     "pivot": "Taxi",
     "pivot-submode": "unspecified",
     "default": "",
-    "reversible": ""
+    "reversible": "",
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 500,
+    "inter_stop_area_distance_max_mode": 300000,
+    "speed_max_mode": 130,
+    "speed_min_mode": 20,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "code": "1503",
     "mode": "Taxi Service",
@@ -918,7 +1602,13 @@
     "pivot": "Taxi",
     "pivot-submode": "unspecified",
     "default": "",
-    "reversible": ""
+    "reversible": "",
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 500,
+    "inter_stop_area_distance_max_mode": 300000,
+    "speed_max_mode": 130,
+    "speed_min_mode": 20,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "code": "1504",
     "mode": "Taxi Service",
@@ -926,7 +1616,13 @@
     "pivot": "Taxi",
     "pivot-submode": "unspecified",
     "default": "",
-    "reversible": ""
+    "reversible": "",
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 500,
+    "inter_stop_area_distance_max_mode": 300000,
+    "speed_max_mode": 130,
+    "speed_min_mode": 20,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "code": "1505",
     "mode": "Taxi Service",
@@ -934,7 +1630,13 @@
     "pivot": "Taxi",
     "pivot-submode": "unspecified",
     "default": "",
-    "reversible": ""
+    "reversible": "",
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 500,
+    "inter_stop_area_distance_max_mode": 300000,
+    "speed_max_mode": 130,
+    "speed_min_mode": 20,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "code": "1506",
     "mode": "Taxi Service",
@@ -942,7 +1644,13 @@
     "pivot": "Taxi",
     "pivot-submode": "unspecified",
     "default": "",
-    "reversible": ""
+    "reversible": "",
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 500,
+    "inter_stop_area_distance_max_mode": 300000,
+    "speed_max_mode": 130,
+    "speed_min_mode": 20,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "code": "1507",
     "mode": "Taxi Service",
@@ -950,7 +1658,13 @@
     "pivot": "Taxi",
     "pivot-submode": "unspecified",
     "default": "",
-    "reversible": ""
+    "reversible": "",
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 500,
+    "inter_stop_area_distance_max_mode": 300000,
+    "speed_max_mode": 130,
+    "speed_min_mode": 20,
+    "inter_stop_duration_variation_max_mode": 60
   }, {
     "code": "1600",
     "mode": "Self Drive",
@@ -958,7 +1672,13 @@
     "pivot": "other",
     "pivot-submode": "unspecified",
     "default": "",
-    "reversible": ""
+    "reversible": "",
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 1,
+    "inter_stop_area_distance_max_mode": 10000,
+    "speed_max_mode": 6,
+    "speed_min_mode": 1,
+    "inter_stop_duration_variation_max_mode": 10
   }, {
     "code": "1601",
     "mode": "Self Drive",
@@ -966,7 +1686,13 @@
     "pivot": "other",
     "pivot-submode": "unspecified",
     "default": "",
-    "reversible": ""
+    "reversible": "",
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 300,
+    "inter_stop_area_distance_max_mode": 30000,
+    "speed_max_mode": 40,
+    "speed_min_mode": 10,
+    "inter_stop_duration_variation_max_mode": 10
   }, {
     "code": "1602",
     "mode": "Self Drive",
@@ -974,7 +1700,13 @@
     "pivot": "other",
     "pivot-submode": "unspecified",
     "default": "",
-    "reversible": ""
+    "reversible": "",
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 300,
+    "inter_stop_area_distance_max_mode": 30000,
+    "speed_max_mode": 40,
+    "speed_min_mode": 10,
+    "inter_stop_duration_variation_max_mode": 10
   }, {
     "code": "1603",
     "mode": "Self Drive",
@@ -982,7 +1714,13 @@
     "pivot": "other",
     "pivot-submode": "unspecified",
     "default": "",
-    "reversible": ""
+    "reversible": "",
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 300,
+    "inter_stop_area_distance_max_mode": 30000,
+    "speed_max_mode": 40,
+    "speed_min_mode": 10,
+    "inter_stop_duration_variation_max_mode": 10
   }, {
     "code": "1604",
     "mode": "Self Drive",
@@ -990,7 +1728,13 @@
     "pivot": "other",
     "pivot-submode": "unspecified",
     "default": "",
-    "reversible": ""
+    "reversible": "",
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 300,
+    "inter_stop_area_distance_max_mode": 30000,
+    "speed_max_mode": 40,
+    "speed_min_mode": 10,
+    "inter_stop_duration_variation_max_mode": 10
   }, {
     "code": "1700",
     "mode": "Miscellaneous Service",
@@ -998,7 +1742,13 @@
     "pivot": "other",
     "pivot-submode": "unspecified",
     "default": true,
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 300,
+    "inter_stop_area_distance_max_mode": 30000,
+    "speed_max_mode": 40,
+    "speed_min_mode": 10,
+    "inter_stop_duration_variation_max_mode": 10
   }, {
     "code": "1701",
     "mode": "Miscellaneous Service",
@@ -1006,7 +1756,13 @@
     "pivot": "cableway",
     "pivot-submode": "cableCar",
     "default": "",
-    "reversible": ""
+    "reversible": "",
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 300,
+    "inter_stop_area_distance_max_mode": 30000,
+    "speed_max_mode": 40,
+    "speed_min_mode": 10,
+    "inter_stop_duration_variation_max_mode": 10
   }, {
     "code": "1702",
     "mode": "Miscellaneous Service",
@@ -1014,6 +1770,12 @@
     "pivot": "other",
     "pivot-submode": "horseDrawn",
     "default": "",
-    "reversible": true
+    "reversible": true,
+    "allowed_transport_mode": false,
+    "inter_stop_area_distance_min_mode": 300,
+    "inter_stop_area_distance_max_mode": 30000,
+    "speed_max_mode": 40,
+    "speed_min_mode": 10,
+    "inter_stop_duration_variation_max_mode": 10
   }
 ]
